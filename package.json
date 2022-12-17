@@ -1,0 +1,22 @@
+{
+  "name": "epam-nodejs-basics",
+  "version": "1.0.0",
+  "description": "## PREREQUISITES:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h4v3u-edu/epam-nodejs-basics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/h4v3u-edu/epam-nodejs-basics/issues"
+  },
+  "homepage": "https://github.com/h4v3u-edu/epam-nodejs-basics#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}

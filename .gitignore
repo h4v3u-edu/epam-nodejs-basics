@@ -1,0 +1,8 @@
+build
+*.iml
+.idea
+cdk.out
+node_modules
+*.zip
+.DS_Store
+package-lock.json
